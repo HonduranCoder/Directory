@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render form 1`] = `
+<div>
+  <div>
+    <span>
+      Directory
+    </span>
+     
+    <span>
+      <a
+        href="/login"
+      >
+        <button>
+          Sign in
+        </button>
+      </a>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`should render form 2`] = `
+<div>
+  <div>
+    <span>
+      Directory
+    </span>
+     
+    <span>
+      You are signed in as 
+      s@s.com
+       
+      <button>
+         Sign out 
+      </button>
+       
+    </span>
+  </div>
+</div>
+`;
